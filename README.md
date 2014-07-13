@@ -24,9 +24,9 @@ Codeaholics Hackathon 2014 July - Google Glass / Headset
 
 [Oculus Rift in Unity3D Demo](https://www.youtube.com/watch?v=7kuQYcIYPvQ)
 
-[In-Browser JS to interact with Oculus Rift](https://github.com/Instrument/oculus-bridge)
+[Oculus Bridge - Hosted App + Js Client](https://github.com/Instrument/oculus-bridge)
 
-[In-Browser JS to interact with Oculus Rift](https://github.com/benvanik/vr.js)
+[VR.js - NPAPI Plugin](https://github.com/benvanik/vr.js)
 
 [2 webcam stream to Oculus Rift left / right](https://github.com/karai17/oculus-rift-webgl-stereo-cam)
 
