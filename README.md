@@ -8,6 +8,7 @@ Codeaholics Hackathon 2014 July - Google Glass / Headset
 Capture english word by camera, translate to Chinese and put it back to Glass screen
 
 [https://www.youtube.com/watch?v=Xfh3vzP3QFw](https://www.youtube.com/watch?v=Xfh3vzP3QFw)
+
 [https://github.com/kaizhu256/glass-ocr](https://github.com/kaizhu256/glass-ocr)
 
 
@@ -16,7 +17,9 @@ Capture english word by camera, translate to Chinese and put it back to Glass sc
 Search restaurant by voice keyword, list search result on glass. They even built the in-glass AR direction pointer to the restaurant selected
 
 [https://www.youtube.com/watch?v=wTlgRfeLFmY](https://www.youtube.com/watch?v=wTlgRfeLFmY)
+
 [https://github.com/andrewjli/openricescraper](https://github.com/andrewjli/openricescraper)
+
 [https://github.com/andrewjli/openriceglass](https://github.com/andrewjli/openriceglass)
 
 
