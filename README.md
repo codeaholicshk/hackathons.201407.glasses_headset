@@ -1,8 +1,41 @@
 Codeaholics Hackathon 2014 July - Google Glass / Headset
 =================================
 
+## Demo
 
-## Preparation
+### Google Glass - Team 1
+
+Capture english word by camera, translate to Chinese and put it back to Glass screen
+
+[https://www.youtube.com/watch?v=Xfh3vzP3QFw](https://www.youtube.com/watch?v=Xfh3vzP3QFw)
+[https://github.com/kaizhu256/glass-ocr](https://github.com/kaizhu256/glass-ocr)
+
+
+### Google Glass - Team 2
+
+Search restaurant by voice keyword, list search result on glass. They even built the in-glass AR direction pointer to the restaurant selected
+
+[https://www.youtube.com/watch?v=wTlgRfeLFmY](https://www.youtube.com/watch?v=wTlgRfeLFmY)
+[https://github.com/andrewjli/openricescraper](https://github.com/andrewjli/openricescraper)
+[https://github.com/andrewjli/openriceglass](https://github.com/andrewjli/openriceglass)
+
+
+### Oculus Rift - Team 1 Project 2
+
+Flying like a superman ~
+
+[https://www.youtube.com/watch?v=18xhImwz9bM](https://www.youtube.com/watch?v=18xhImwz9bM)
+
+
+### Oculus Rift - Team 1
+
+Migrating a third person top down sneaking game to Oculus Rift first person with head rotation view point
+
+[https://www.youtube.com/watch?v=ZVI_Pe2g5WU](https://www.youtube.com/watch?v=ZVI_Pe2g5WU)
+
+
+
+## References
 
 
 ### Google Glass Development
